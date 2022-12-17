@@ -1,5 +1,9 @@
 <h1>Sistema de Automação de Iluminação</h1>
 
-> Versão final
+<p>Versão final</p>
+<p>Atualizar o HTML</p>
 
-> Atualizar o HTML
+...
+node app.js
+...
+

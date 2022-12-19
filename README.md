@@ -3,7 +3,13 @@
 <p>Versão final</p>
 <p>Atualizar o HTML</p>
 
+<<<<<<< HEAD
 ```
 node app.js
 ```
+=======
+'''
+node app.js
+'''
+>>>>>>> parent of a365011 (1)
 
